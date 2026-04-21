@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Juan Pablo
 
-<!--
-**DevJuanP4bl0/DevJuanP4bl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor em formação, com conhecimento em C e lógica de programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑 Sobre mim
+
+- Estudante de programação pela FGV
+- Foco em desenvolvimento com C
+- Interesse em back-end e estruturas de dados
+- Sempre buscando evolução, com interesse em aprender novas linguagens e tecnologias
+
+---
+
+## 💻 Tecnologias
+
+- C
+- Git & GitHub
+- Linux / WSL
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+---
+
+## 📞 Contato
+
+Email: juanpfreire18@gmail.com
+Linkedin: https://www.linkedin.com/in/juan-pablo-freire-feitosa-5b3839292/
+
+---
+
+💡 "O aprenzidado nos torna melhores do que fomos ontem"
