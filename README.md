@@ -31,7 +31,7 @@
 
 ## 📞 Contato
 
-Email: juanpfreire18@gmail.com
+Email: juanpfreire18@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/juan-pablo-freire-feitosa-5b3839292/
 
 ---
