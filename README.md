@@ -23,6 +23,8 @@
 
 ## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=DevJuanP4bl0&show_icons=true&theme=dracula&hide_border=true)
+
 ![DevJuanP4bl0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanP4bl0&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
