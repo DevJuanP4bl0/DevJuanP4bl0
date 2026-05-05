@@ -7,7 +7,7 @@
 ## 🧑 Sobre mim
 
 - Estudante de programação pela FGV
-- Foco em desenvolvimento com C
+- Foco em desenvolvimento com C, Python e Java
 - Interesse em back-end e estruturas de dados
 - Sempre buscando evolução, com interesse em aprender novas linguagens e tecnologias
 
@@ -16,6 +16,8 @@
 ## 💻 Tecnologias
 
 - C
+- Python
+- Java
 - Git & GitHub
 - Linux / WSL
 
