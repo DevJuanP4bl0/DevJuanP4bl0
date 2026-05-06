@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Juan Pablo
 
-👨‍💻 Desenvolvedor em formação, com conhecimento em C e lógica de programação.
+👨‍💻 Desenvolvedor em formação
 
 ---
 
