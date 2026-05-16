@@ -25,9 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DevJuanP4bl0&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanP4bl0&layout=compact&theme=dark&hide_border=true)
+![Followers](https://img.shields.io/github/followers/DevJuanP4bl0?style=social)
+![Stars](https://img.shields.io/github/stars/DevJuanP4bl0?style=social)
 
 ---
 
