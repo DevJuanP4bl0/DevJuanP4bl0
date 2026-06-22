@@ -17,7 +17,9 @@
 
 - C
 - Python
+- Django
 - Java
+- SpringBoot
 - Git & GitHub
 - Linux / WSL
 
