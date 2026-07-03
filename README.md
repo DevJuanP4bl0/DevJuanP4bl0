@@ -7,7 +7,7 @@
 ## 🧑 Sobre mim
 
 - Estudante de programação pela FGV
-- Foco em desenvolvimento com C, Python e Java
+- Foco em desenvolvimento com Java e SpringBoot
 - Interesse em back-end e estruturas de dados
 - Sempre buscando evolução, com interesse em aprender novas linguagens e tecnologias
 
