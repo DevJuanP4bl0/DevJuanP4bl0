@@ -8,20 +8,18 @@
 
 - Estudante de programação pela FGV
 - Foco em desenvolvimento com Java e SpringBoot
-- Interesse em back-end e estruturas de dados
+- Interesse em back-end
 - Sempre buscando evolução, com interesse em aprender novas linguagens e tecnologias
 
 ---
 
 ## 💻 Tecnologias
 
-- C
 - Python
 - Django
 - Java
 - SpringBoot
 - Git & GitHub
-- Linux / WSL
 
 ---
 
